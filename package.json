@@ -1,0 +1,10 @@
+{
+  "name": "Dev",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "",
+    "grunt-contrib-cssmin": "",
+    "grunt-contrib-uglify": "",
+    "matchdep": ""
+  }
+}

@@ -17,7 +17,7 @@ if (!$db_select) {
   <script src="compiled/javascript.min.js"></script>
   <link rel="stylesheet" type="text/css" href="compiled/style.min.css">
   <meta charset="utf-8">
-  <title>Scrolling Site</title>
+  <title>CloudWord</title>
 </head>
 <body>
 
